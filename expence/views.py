@@ -1,7 +1,6 @@
 from django.contrib import messages
 from django.db.models import Sum
 from django.shortcuts import render, redirect
-import base64
 from expence.models import Transaction
 
 
